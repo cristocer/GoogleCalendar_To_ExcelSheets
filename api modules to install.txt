@@ -1,0 +1,24 @@
+Direct method:
+pip install --upgrade google-api-python-client 
+
+Plus manually install:
+xlsxWriter
+google_auth_oauthlib
+pickle //only if it is not installed by default
+
+With pip install:
+google_api_python_client	
+httplib2
+google_auth
+google_auth_httplib2
+six
+uritemplate
+pyasn1_modules
+cachetools
+rsa
+pyasn1
+XlsxWriter
+google_auth_oauthlib
+
+Instructions to test in an IDE:
+install them manually in the interpreter by add packages
