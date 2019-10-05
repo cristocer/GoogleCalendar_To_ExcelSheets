@@ -4,7 +4,7 @@ A python script that converts data from the google calendar to an excel custom f
 Scope: I needed a way to export the google calendar data of a company I worked for, to Excel format, and adjusted to my manager preference. There are version of this project on the internet provided by some companies, but 1. They don't work properly. 2. They also cost money(like....). 3. You can barely adjust the column and row format or how the data will be collected and identified.
 
 Calendar_to_Excel is the "perfect" complete version of the project.
-Calendar_to_ExcelV2 is an incomplete version of the project as it has a bonus additional sheet with the operational plan that I didn't manage to finish.
+Calendar_to_ExcelV2 is an almost complete version of the project as it has a bonus additional sheet with the operational plan that I didn't manage to finish to fully test.
 
 I modified the original code as I don't want to disclose sensitive and personal information about the company and members I worked for. Enjoy the code and if you want to sell a version of this project I would appreciate a reference or job opportunity  :)
 
